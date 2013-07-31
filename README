@@ -1,3 +1,13 @@
+TODO:
+* Move Arrow toggles away from background images and into real images that reside outside of the input box
+* Consider making the toggle arrows an icon font or at least an image sprite
+* Change the way that the input validates manually typed input or disable typing altogether
+* Add a check for IE10 and provide styling to remove the "X" in the input that allows the user to clear the data
+* Alter code to not be reliant upon a height and width that is set in the JS. Instead allow the plugin to read these parameters from the generated styling on the page.
+* Explore using data attributes in the HTML to set plugin options (min, max, step, etc)
+* Ensure that codebase functions properly against newer versions of jQuery
+
+ORIGINAL DOCUMENTATION:
 For complete documentation please visit http://www.egrappler.com/jquery-spin-button-plugin-smart-spin/
 
 or 
